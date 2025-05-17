@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1>21389</h1>
-      <a>fjds</a>
+      <a href=''>fjds</a>
     </div>
   );
 }
